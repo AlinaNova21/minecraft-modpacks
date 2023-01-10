@@ -1,0 +1,10 @@
+version: "3"
+services:
+  viewersmp:
+    image: alinanova21/minecraft-modpacks:viewersmp-1.0.0
+    build:
+      context: viewersmp
+      args:
+        pack: viewersmp
+    ports:
+    - '8080:80'
