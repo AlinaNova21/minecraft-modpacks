@@ -13,6 +13,10 @@ file = "global_packs/required/tardis.zip"
 hash = "a0236fceca2eb8efb45ca41a20499585390392255ac561c7e6fac4a3563d926c"
 
 [[files]]
+file = "global_packs/required/viewersmp.zip"
+hash = "27ed0fa2007e26a7f399719d0c5aea592ffa25941f921b57572aa05c8c7b874c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
