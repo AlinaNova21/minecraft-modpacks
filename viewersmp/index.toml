@@ -5,6 +5,10 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "2bfa7480bf1a1c9afb5840499202f5b381dc7445d462c4d6f42ace4aec98d834"
 
 [[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "aae8da325a93ebe02ee81a256d03ce4d89585c15a9e163fa1f89b80f463a6c7e"
+
+[[files]]
 file = "global_packs/required/tardis.zip"
 hash = "a0236fceca2eb8efb45ca41a20499585390392255ac561c7e6fac4a3563d926c"
 
@@ -250,3 +254,11 @@ metafile = true
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "c029c7e045ddf04f70b05f353620899d5ca818aca054f7c47f43bc580f3b4b4b"
+
+[[files]]
+file = "server.properties"
+hash = "396d557e10863ce1f4a42fe3b474c230155e54df14cad13e030fc10e20b80802"
