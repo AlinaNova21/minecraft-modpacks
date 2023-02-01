@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
+hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "c2ebb5baae30e2c4831ab6d3f5b2c914416a522d8ac2a0d35de06c0b23d16fe1"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "a7a2896eca69d913e8543ee903b10784b2684b7a8fce5cb99ec7d44bf796c8a5"
+hash = "c7272893ee81268343099cc7fc80d4043bed47f14fd6a07e9e19ce37685dc8ca"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ hash = "33e2ac829b1e70e300d4b0717afb5b906fc1c6b01b53fb32edc232bdee3ecbda"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d50cba471a9055731e2a5c2e96bc3da3130079c1c573ee85d57c08ec4d999581"
+hash = "b7ddb84e65bee3c1f60bc9a917f0f31130b379a50feb60fae49898948184ffe8"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "60c23ab82e745f6584071b2d9c9fbab09e0a393a9b223203623bdb15969f3980"
+hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "562362e7aca8c229409c6413cf686f77b3a734725a8b9a9704b53501f14446ed"
+hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "4759aea58fea3faade017ea6693ab162d32e721f970e67328ad4bb2330e92407"
+hash = "8b82533bd3c93b64a72d40a20d5b5989cd4578b149357f0a98886a4ad53685c4"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "80aaaf9934c183cb580c8f2737df4d62a8e45fc67bd2bb9b252f91910d79e111"
+hash = "dde60e98c0c767006b4e44df9cede144b84c48da9edc268d66ee245dc30f51d1"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ hash = "45866bdab4a452b0db71f1d44af21f748df9dd589949c69c620abac778da5bea"
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "c9dd736fc7bf45aee621f51f723495ccdcc310659f5be6e81d450492ed6c3c9f"
+hash = "76ef4376a9f854e27f19b0a2e81eecf2ab4857462d3e30c78961e4a46ba3a7b7"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "79478d750e8630653db0f469d7a7ade3eb11854b78fa7fc78e93a0170e1f4d5f"
+hash = "29c1573a9958479ac53fc1e72ef018f8b2c13a01893b9fe72ee74c42e4070663"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e05ac0c6b80847a3fbde8bb6ffa220dabe2690fb7f77b3f04af458901095eb32"
+hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
 metafile = true
 
 [[files]]
@@ -241,17 +241,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5031396a7cf279acf8b4c14183a1d8dbbfc287d3e82b3c6926544a8b4cd43c0c"
+hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
+hash = "570193e149bb0d77dbbb843955421e1675a96cf32dd01a9d6a438677ec72998f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46bb4af64a3e00d1dbc690c1bce3b119c837e7b9f7f0d1bcd5f1466366c4da86"
+hash = "2909f784a945728d54fc296d21445b2879acac932c84f9e61667609f43b07e8b"
 metafile = true
 
 [[files]]
