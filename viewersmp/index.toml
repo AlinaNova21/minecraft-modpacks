@@ -77,6 +77,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "63cf91154de3a1fbe063f98532719d6a3c2da1ecfdff3c37c9d04740e126eedf"
+metafile = true
+
+[[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
