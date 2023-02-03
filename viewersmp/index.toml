@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
+hash = "707f084564b8548690f44fc42d81854f84ca874bbbace121600fb67b0a979a4e"
 metafile = true
 
 [[files]]
