@@ -1,13 +1,13 @@
 name = "Ultimate Transport for Minecraft (trains, planes, and more!)"
-filename = "MTR-fabric-1.19.2-3.2.0.jar"
+filename = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/1ksOJbPs/MTR-fabric-1.19.2-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/H0yHV2yE/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
 hash-format = "sha1"
-hash = "44f6d026cdf12d37d710e6191d3b44ba9c58df37"
+hash = "eb9ef66565792eae34882a2f52d1a595aa5e7b89"
 
 [update]
 [update.modrinth]
 mod-id = "XKPAmI6u"
-version = "1ksOJbPs"
+version = "H0yHV2yE"
