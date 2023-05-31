@@ -200,11 +200,6 @@ hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-hash = "590e350a65f0c6aba510dbcfaf1eab4a0dc1740b19b2e07a5ffef446e89cf1b7"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
